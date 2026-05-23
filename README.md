@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dirt-under-my-halo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dirt Under My Halo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dirt-under-my-halo/) |
+| **Get License** | [Get License For Dirt Under My Halo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dirt-under-my-halo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I got your memory burning like a midnight drive
+> You got me feeling more than just a little alive
+> Slide a little closer, let the engine cool
+> I'm just a willing player breaking every rule
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
