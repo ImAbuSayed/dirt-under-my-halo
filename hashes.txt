@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dirt Under My Halo
+
+This log tracks the cryptographic history and versioning for the song **Dirt Under My Halo** (dirt-under-my-halo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T14:48:29.044648 | `v1` | `980589851c268127ad552dc2c6bfc7dee6a4a1d9bc73551bea957524c31f291a` | `e7667d6c72813ff8cfb50f9b3a4f700bc0ed87eb5dc61a8a773cf5ea7dace1f3` | `2026-05-23_dirt-under-my-halo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
